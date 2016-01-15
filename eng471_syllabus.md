@@ -95,7 +95,7 @@ For many of you, the final project will take the form of a 10-12 page (double-sp
 
 Others of you may wish to consider an alternative format to the traditional research essay for this final project. I'm open to this. If you have a creative idea for exploring a question/idea about the future of reading, please let me know. Alternative formats for the final project must receive my approval before you write a proposal.
 
-The final draft of your final project is due by 11:59 p.m. on the date indicated in the schedule below. You will submit your project electronically via Blackboard -- to do so, login to our Blackboard site, click on the "Final Project" link, click on the "Final Draft" link, and upload your file. This assignment will be assessed according to a grading rubric, which you should consult before submitting your essay to make sure you have included all of the required elements. A copy of the rubric is available on our course Blackboard site.
+The final draft of your final project is due on the date indicated in the schedule below. You will submit your project electronically via Blackboard -- to do so, login to our Blackboard site, click on the "Final Project" link, click on the "Final Draft" link, and upload your file. This assignment will be assessed according to a grading rubric, which you should consult before submitting your essay to make sure you have included all of the required elements. A copy of the rubric is available on our course Blackboard site.
 
 # Course Policies  
 
@@ -103,7 +103,7 @@ The final draft of your final project is due by 11:59 p.m. on the date indicated
 All assignments should follow MLA guidelines. Writers who neglect these basic issues of formatting can expect to be penalized. Assignments are due by the beginning of class on the date indicated unless I specify otherwise. Assignments handed in at any time after the specified due date will be penalized by 5% for each day late, including weekends. Note that technology failure (such as a computer crash or a lost file) is never a valid excuse for a late assignment. Additionally, I will not accept assignments submitted more than one week late.
 
 ## Absences
-You are permitted one (1) absence (“personal day”), no questions asked, without detriment to your grade; subsequent absences, however, will each lower your overall course grade by five percent. Excessive absence can result in failing this course. If you become ill or the victim of emergency circumstances, please let me know as soon as possible and keep me informed; I am willing to work with you to achieve a reasonable accommodation in such situations, but I can only do so with advance notice and regular communication.
+You are permitted one (1) absence ("personal day"), no questions asked, without detriment to your grade; subsequent absences, however, will each lower your overall course grade by five percent. Excessive absence can result in failing this course. If you become ill or the victim of emergency circumstances, please let me know as soon as possible and keep me informed; I am willing to work with you to achieve a reasonable accommodation in such situations, but I can only do so with advance notice and regular communication.
 
 ## Extensions
 No extensions will be given except in extreme (and verifiable) circumstances. These circumstances include reasons of health and extenuating circumstances, such as death of a family member.
@@ -250,7 +250,7 @@ With the exception of holidays and weekends, I respond to your emails within twe
 ## Week 9: Algorithmic Reading | March 14-18
 
 ### Reading
-- Logemann, Andrew. ["Provocation: Algorithmic Criticism."](http://eng471.logemann.io/provocation-algorithmic-criticism/) (Blackboard)
+- Logemann, Andrew. ["Provocation: Algorithmic Criticism."](http://eng471.logemann.io/provocation-algorithmic-criticism/)
 - Ramsay, Stephen. *Reading Machines: Toward an Algorithmic Criticism*.
 
 ### Assignments
