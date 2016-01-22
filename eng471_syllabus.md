@@ -43,7 +43,7 @@ This is a hybrid course that will combine traditional classroom instruction with
 
 # Grading Scale
 | ---
-| A+ 97-100	| B+ 87-89 | C+ 77-79 | D+ 67-69 | F Below 60 |
+| A+ 97-100 | B+ 87-89 | C+ 77-79 | D+ 67-69 | F Below 60 |
 | A 93-96 | B 83-86 | C 73-76 | D 63-66 |
 | A- 90-92 | B- 80-82 | C- 70-72 | D- 60-62 |
 
@@ -149,9 +149,9 @@ With the exception of holidays and weekends, I respond to your emails within twe
 - **Blog Post:** due Monday by 11:59 p.m.
 - **Blog Commenting:** due Tuesday by 11:59 p.m.
 - **Attend Class:** Wednesday at 2:10 p.m.
-- **Digital Discussion Starter:** from [TBA] due Wednesday by 11:59 p.m.
+- **Digital Discussion Starter:** from Professor Logemann due Wednesday by 11:59 p.m.
 - **Digital Discussion Participation:** due Thursday by 11:59 p.m.
-- **Digital Discussion Wrap-Up:** from [TBA] due Friday by 11:59 p.m.
+- **Digital Discussion Wrap-Up:** from Professor Logemann due Friday by 11:59 p.m.
 
 ## Week 3: Decoding | January 25-29
 
@@ -164,9 +164,9 @@ With the exception of holidays and weekends, I respond to your emails within twe
 - **Blog Post:** due Monday by 11:59 p.m.
 - **Blog Commenting:** due Tuesday by 11:59 p.m.
 - **Attend Class:** Wednesday at 2:10 p.m.
-- **Digital Discussion Starter:** from [TBA] due Wednesday by 11:59 p.m.
+- **Digital Discussion Starter:** from Alex Hall due Wednesday by 11:59 p.m.
 - **Digital Discussion Participation:** due Thursday by 11:59 p.m.
-- **Digital Discussion Wrap-Up:** from [TBA] due Friday by 11:59 p.m.
+- **Digital Discussion Wrap-Up:** from Haylie Petre due Friday by 11:59 p.m.
 
 ## Week 4: The Rise of the Novel | February 1-5
 
@@ -178,9 +178,9 @@ With the exception of holidays and weekends, I respond to your emails within twe
 - **Blog Post:** due Monday by 11:59 p.m.
 - **Blog Commenting:** due Tuesday by 11:59 p.m.
 - **Attend Class:** Wednesday at 2:10 p.m.
-- **Digital Discussion Starter:** from [TBA] due Wednesday by 11:59 p.m.
+- **Digital Discussion Starter:** from Nora Kirkham due Wednesday by 11:59 p.m.
 - **Digital Discussion Participation:** due Thursday by 11:59 p.m.
-- **Digital Discussion Wrap-Up:** from [TBA] due Friday by 11:59 p.m.
+- **Digital Discussion Wrap-Up:** from Alex Hall due Friday by 11:59 p.m.
 
 ## Week 5: Reading and Cognition | February 8-12
 
@@ -193,9 +193,9 @@ With the exception of holidays and weekends, I respond to your emails within twe
 - **Blog Post:** due Monday by 11:59 p.m.
 - **Blog Commenting:** due Tuesday by 11:59 p.m.
 - **Attend Class:** Wednesday at 2:10 p.m.
-- **Digital Discussion Starter:** from [TBA] due Wednesday by 11:59 p.m.
+- **Digital Discussion Starter:** from Haylie Petre & Rosie Drinkhouse (collaborating on a single post) due Wednesday by 11:59 p.m.
 - **Digital Discussion Participation:** due Thursday by 11:59 p.m.
-- **Digital Discussion Wrap-Up:** from [TBA] due Friday by 11:59 p.m.
+- **Digital Discussion Wrap-Up:** from Josh Kaplan due Friday by 11:59 p.m.
 
 ## Week 6: Materialities of Reading | February 15-19
 
@@ -211,9 +211,9 @@ With the exception of holidays and weekends, I respond to your emails within twe
 - **Blog Post:** due Monday by 11:59 p.m.
 - **Blog Commenting:** due Tuesday by 11:59 p.m.
 - **Attend Class:** Wednesday at 2:10 p.m.
-- **Digital Discussion Starter:** from [TBA] due Wednesday by 11:59 p.m.
+- **Digital Discussion Starter:** from Rachel Cates due Wednesday by 11:59 p.m.
 - **Digital Discussion Participation:** due Thursday by 11:59 p.m.
-- **Digital Discussion Wrap-Up:** from [TBA] due Friday by 11:59 p.m.
+- **Digital Discussion Wrap-Up:** from Rachel Chang and Michaela Savell (writing separate posts) due Friday by 11:59 p.m.
 
 ## Week 7: Postmodern Reading | February 22-26
 
@@ -225,9 +225,9 @@ With the exception of holidays and weekends, I respond to your emails within twe
 - **Blog Post:** due Monday by 11:59 p.m.
 - **Blog Commenting:** due Tuesday by 11:59 p.m.
 - **Attend Class:** Wednesday at 2:10 p.m.
-- **Digital Discussion Starter:** from [TBA] due Wednesday by 11:59 p.m.
+- **Digital Discussion Starter:** from Sarah Tweed due Wednesday by 11:59 p.m.
 - **Digital Discussion Participation:** due Thursday by 11:59 p.m.
-- **Digital Discussion Wrap-Up:** from [TBA] due Friday by 11:59 p.m.
+- **Digital Discussion Wrap-Up:** from Grace Park due Friday by 11:59 p.m.
 
 ## Week 8: How We Read - Old and New Methods | February 29 - March 4
 
@@ -240,9 +240,9 @@ With the exception of holidays and weekends, I respond to your emails within twe
 - **Blog Post:** due Monday by 11:59 p.m.
 - **Blog Commenting:** due Tuesday by 11:59 p.m.
 - **Attend Class:** Wednesday at 2:10 p.m.
-- **Digital Discussion Starter:** from [TBA] due Wednesday by 11:59 p.m.
+- **Digital Discussion Starter:** from Veronika Zhigailova due Wednesday by 11:59 p.m.
 - **Digital Discussion Participation:** due Thursday by 11:59 p.m.
-- **Digital Discussion Wrap-Up:** from [TBA] due Friday by 11:59 p.m.
+- **Digital Discussion Wrap-Up:** from Kelsey Roberts and Sarah Ferguson (writing separate posts) due Friday by 11:59 p.m.
 
 ## Spring Break | March 7-11
 - **No Class Meeting**.
@@ -257,9 +257,9 @@ With the exception of holidays and weekends, I respond to your emails within twe
 - **Blog Post:** due Monday by 11:59 p.m.
 - **Blog Commenting:** due Tuesday by 11:59 p.m.
 - **Attend Class:** Wednesday at 2:10 p.m.
-- **Digital Discussion Starter:** from [TBA] due Wednesday by 11:59 p.m.
+- **Digital Discussion Starter:** from Hana Weitzel due Wednesday by 11:59 p.m.
 - **Digital Discussion Participation:** due Thursday by 11:59 p.m.
-- **Digital Discussion Wrap-Up:** from [TBA] due Friday by 11:59 p.m.
+- **Digital Discussion Wrap-Up:** from Rachel Cates due Friday by 11:59 p.m.
 
 ## Week 10: Reading in the Internet Age | March 21-25
 
@@ -271,9 +271,9 @@ With the exception of holidays and weekends, I respond to your emails within twe
 - **Blog Post:** due Monday by 11:59 p.m.
 - **Blog Commenting:** due Tuesday by 11:59 p.m.
 - **Attend Class:** Wednesday at 2:10 p.m.
-- **Digital Discussion Starter:** from [TBA] due Wednesday by 11:59 p.m.
+- **Digital Discussion Starter:** from Rachel Chang and Sarah Ferguson (collaborating on a single post) due Wednesday by 11:59 p.m.
 - **Digital Discussion Participation:** due Thursday by 11:59 p.m.
-- **Digital Discussion Wrap-Up:** from [TBA] due Friday by 11:59 p.m.
+- **Digital Discussion Wrap-Up:** from Rosie Drinkhouse and Hana Weitzel (writing separate posts) due Friday by 11:59 p.m.
 
 ## Week 11: Ecologies of Reading | March 28 - April 1
 
@@ -285,9 +285,9 @@ With the exception of holidays and weekends, I respond to your emails within twe
 - **Blog Post:** due Monday by 11:59 p.m.
 - **Blog Commenting:** due Tuesday by 11:59 p.m.
 - **Attend Class:** Wednesday at 2:10 p.m.
-- **Digital Discussion Starter:** from [TBA] due Wednesday by 11:59 p.m.
+- **Digital Discussion Starter:** from Sarah Warne due Wednesday by 11:59 p.m.
 - **Digital Discussion Participation:** due Thursday by 11:59 p.m.
-- **Digital Discussion Wrap-Up:** from [TBA] due Friday by 11:59 p.m.
+- **Digital Discussion Wrap-Up:** from Veronika Zhigailova due Friday by 11:59 p.m.
 
 ## Week 12: Reading and Pleasure | April 4-8
 
@@ -299,9 +299,9 @@ With the exception of holidays and weekends, I respond to your emails within twe
 - **Blog Post:** due Monday by 11:59 p.m.
 - **Blog Commenting:** due Tuesday by 11:59 p.m.
 - **Attend Class:** Wednesday at 2:10 p.m.
-- **Digital Discussion Starter:** from [TBA] due Wednesday by 11:59 p.m.
+- **Digital Discussion Starter:** from Kelsey Roberts due Wednesday by 11:59 p.m.
 - **Digital Discussion Participation:** due Thursday by 11:59 p.m.
-- **Digital Discussion Wrap-Up:** from [TBA] due Friday by 11:59 p.m.
+- **Digital Discussion Wrap-Up:** from Nora Kirkham due Friday by 11:59 p.m.
 
 ## Week 13: Hopeful Reading | April 11-15
 
@@ -315,9 +315,9 @@ With the exception of holidays and weekends, I respond to your emails within twe
 - **Blog Post:** due Monday by 11:59 p.m.
 - **Blog Commenting:** due Tuesday by 11:59 p.m.
 - **Attend Class:** Wednesday at 2:10 p.m.
-- **Digital Discussion Starter:** from [TBA] due Wednesday by 11:59 p.m.
+- **Digital Discussion Starter:** from Grace Park and Josh Kaplan (collaborating on a single post) due Wednesday by 11:59 p.m.
 - **Digital Discussion Participation:** due Thursday by 11:59 p.m.
-- **Digital Discussion Wrap-Up:** from [TBA] due Friday by 11:59 p.m.
+- **Digital Discussion Wrap-Up:** from Sarah Warne due Friday by 11:59 p.m.
 - **Final Project Proposal:** due Friday by 11:59 p.m.
 
 ## Week 14: Revolutionary Reading | April 18-22
@@ -331,9 +331,9 @@ With the exception of holidays and weekends, I respond to your emails within twe
 - **Blog Post:** due Monday by 11:59 p.m.
 - **Blog Commenting:** due Tuesday by 11:59 p.m.
 - **Attend Class:** Wednesday at 2:10 p.m.
-- **Digital Discussion Starter:** from [TBA] due Wednesday by 11:59 p.m.
+- **Digital Discussion Starter:** from Michaela Savell due Wednesday by 11:59 p.m.
 - **Digital Discussion Participation:** due Thursday by 11:59 p.m.
-- **Digital Discussion Wrap-Up:** from [TBA] due Friday by 11:59 p.m.
+- **Digital Discussion Wrap-Up:** from Sarah Tweed due Friday by 11:59 p.m.
 
 ## Week 15: Workshop on Drafts-in-Progress | April 25-29
 
